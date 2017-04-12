@@ -5,6 +5,7 @@ body {
 }
 
 #cover {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg");
   height: 900px;
   position: relative;
   top: -55px;
